@@ -52,12 +52,12 @@ This method involves performing simple mathematical operations (like XOR) on pix
 ### Program 1: Pixel Swapping Encryption & Decryption
 1. **Clone the Repository**:
    ```sh
-   git clone <repository-url>
+   git clone <repository-url> (https://github.com/mrudula0003/Prodigy_CS_Task2)
    cd <repository-directory>
    ```
 
 2. **Run the Program**:
-   - Open `pixel_swap.py` in your Python IDE (e.g., PyCharm).
+   - Open `Pixel_Swap_Enc&Dec.py` in your Python IDE (e.g., PyCharm).
    - Execute the script and follow the prompts to enter the image path and the encryption key.
 
 3. **Example Execution**:
@@ -67,7 +67,7 @@ This method involves performing simple mathematical operations (like XOR) on pix
 
 ### Program 2: Encrypt an Image Using Simple Mathematical Logic
 1. **Run the Program**:
-   - Open `encrypt_image.py` in your Python IDE.
+   - Open `Img_encryption.py` in your Python IDE.
    - Execute the script and follow the prompts to enter the image path and the encryption key.
 
 2. **Example Execution**:
@@ -77,7 +77,7 @@ This method involves performing simple mathematical operations (like XOR) on pix
 
 ### Program 3: Decrypt an Image Using Simple Mathematical Logic
 1. **Run the Program**:
-   - Open `decrypt_image.py` in your Python IDE.
+   - Open `Img_decryption.py` in your Python IDE.
    - Execute the script and follow the prompts to enter the image path and the decryption key.
 
 2. **Example Execution**:
